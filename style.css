@@ -1,20 +1,35 @@
-
+*{
+    color:black;
+}
 
 a{
-    color:black;
-    background-color:#ff99ff;
-  }
-  
-  header {
-    padding-left: 20px;
-    background-color: #ff99ff;
+    color: black;
+}
+.container{
+    background-color: rgb(219, 213, 255);
+}
+header{
+    color: white;
+    background-image: url("/images/cherry.png");
+    padding:200px;
+    
+}
 
-  }
-  span{
-    background-color: #ff99ff;
-  }
-  
+.proj{
+padding-left:8px;
+}
 
+p{
+    font-size:22px;
+}
+
+.fs-4{
+    color: white;
+    font-weight: bolder;
+}
+li {
+    font-weight: bolder;
+}
 .port-container {
     display: flex;
     flex-wrap: wrap;
@@ -60,7 +75,7 @@ h1{
 #contactme,
 #resume {
     background-color:transparent;
-    color: black;
+    color: white;
     margin: 10px;
     font-size: 20px;
 
@@ -83,5 +98,13 @@ h1{
 }
 .col{
     text-align: center;
-margin-bottom: 20px;;
+margin-bottom: 20px;
+}
+
+img{
+    height: 300px;
+}
+
+#contactme{
+    color:black;
 }
