@@ -1,13 +1,14 @@
 *{
     color:black;
-    font-family: "";
+    font-family:Lucida,Helvetica, sans-serif;
+    color:black;
 }
 
 a{
     color: black;
 }
 .container{
-    background-color: rgb(219, 213, 255);
+    background-color: rgb(244, 244, 248);
 }
 header{
     color: white;
@@ -22,6 +23,7 @@ padding-left:8px;
 
 p{
     font-size:22px;
+    padding-bottom: 20px;
 }
 
 .fs-4{
@@ -76,7 +78,7 @@ h1{
 #contactme,
 #resume {
     background-color:transparent;
-    color: white;
+
     margin: 10px;
     font-size: 20px;
 
@@ -94,7 +96,7 @@ h1{
 .contactme-container{
     text-align: center;
     margin-top: 20px;
-    margin-bottom:50px;
+    padding-bottom:50px;
     
 }
 .col{
@@ -103,9 +105,15 @@ margin-bottom: 20px;
 }
 
 img{
+
     height: 300px;
+    border-radius: 50%;
+    
+}
+#res{
+margin-left: 450px;
 }
 
-#contactme{
-    color:black;
+#About1{
+    padding-bottom: 20px;;
 }
