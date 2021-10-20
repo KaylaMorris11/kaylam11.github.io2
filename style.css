@@ -8,19 +8,6 @@ a{
     background-color: #ff99ff;
   }
   
-  .myName {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  
-a{
-    color:black;
-}
-
-.page-container {
-background-color: rgb(241, 221, 239);
-}
-
 .port-container {
     display: flex;
     flex-wrap: wrap;
@@ -72,10 +59,10 @@ h1{
 
 }
 
-#imageoverlay{
+/* #imageoverlay{
     position:absolute;
     background-color:#ff99ff;
-}
+} */
 
 .contact-me h2 {
     margin-top: 25px;
@@ -84,6 +71,7 @@ h1{
 .contactme-container{
     text-align: center;
     margin-top: 20px;
+    margin-bottom:50px;
     
 }
 .col{
