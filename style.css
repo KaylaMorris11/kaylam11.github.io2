@@ -1,18 +1,24 @@
 *{
     color:black;
-    font-family:Lucida,Helvetica, sans-serif;
-    color:black;
+
 }
 
+
+body{
+    font-family: 'Montserrat', sans-serif;
+
+}
 a{
     color: black;
 }
+
 .container{
     background-color: rgb(244, 244, 248);
 }
+
 header{
-    color: white;
-    background-image: url("/images/cherry.png");
+
+    background-image: url("./images/cherry.png");
     padding:200px;
     
 }
@@ -105,15 +111,17 @@ margin-bottom: 20px;
 }
 
 img{
-
     height: 300px;
     border-radius: 50%;
-    
 }
+
 #res{
 margin-left: 450px;
 }
 
 #About1{
     padding-bottom: 20px;;
+}
+.nav-link{
+color: white;
 }
